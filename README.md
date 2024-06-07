@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there welcome to my profile 👋
 
 <!--
 **dev-skipo/dev-skipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Languages i use:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express)](https://skillicons.dev)
+
+
+[![](https://visitcount.itsvg.in/api?id=dev-skipo&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
