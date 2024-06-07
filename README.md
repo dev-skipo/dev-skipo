@@ -1,4 +1,3 @@
-## Hi there welcome to my profile 👋
 
 <!--
 **dev-skipo/dev-skipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages i use:</h3>
+<h3 align="left">Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express)](https://skillicons.dev)
 
