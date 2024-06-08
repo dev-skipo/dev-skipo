@@ -21,5 +21,3 @@ https://github.com/tandpfun/skill-icons#readme
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express)](https://skillicons.dev)
 
-
-[![](https://visitcount.itsvg.in/api?id=dev-skipo&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
