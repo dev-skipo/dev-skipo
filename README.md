@@ -21,3 +21,4 @@ https://github.com/tandpfun/skill-icons#readme
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-skipo)
