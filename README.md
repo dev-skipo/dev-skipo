@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://github.com/tandpfun/skill-icons#readme
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-skipo)
 
 <h3 align="left">Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-skipo)
