@@ -1,7 +1,7 @@
-![Header](./your-header-image-name.gif)
 
 <!--
 **dev-skipo/dev-skipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](./your-header-image-name.gif)
 
 Here are some ideas to get you started:
 
