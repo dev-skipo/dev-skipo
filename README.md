@@ -21,5 +21,5 @@ https://github.com/tandpfun/skill-icons#readme
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,bootstrap,express,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,nodejs,git,bootstrap,express,solidity)](https://skillicons.dev)
 
