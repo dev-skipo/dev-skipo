@@ -18,8 +18,10 @@ https://github.com/tandpfun/skill-icons#readme
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-skipo)
 -->
 
+### "Confusion is part of programming" ― Felienne Hermans
 
-<h3 align="left">Languages:</h3>
+<br/>
+<p align="left">Programing Languages i m using :</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,nodejs,git,bootstrap,express,react,npm,sass,webpack,solidity,)](https://skillicons.dev)
 
