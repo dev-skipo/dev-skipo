@@ -24,5 +24,5 @@ https://github.com/tandpfun/skill-icons#readme
 <br/>
 <p align="left">Programing Languages i m using :</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,nodejs,git,bootstrap,express,react,npm,sass,webpack,solidity,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,git,html,css,sass,bootstrap,js,jquery,express,nodejs,react,solidity,)](https://skillicons.dev)
 
