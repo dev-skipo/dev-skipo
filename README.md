@@ -1,21 +1,20 @@
-
-<h1 align="center">"Confusion is part of programming" ― Felienne Hermans</h1>
+<h2 align="left">"Confusion is part of programming" ― Felienne Hermans</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=dev-skipo&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="center">Programming Languages, Software & Tools.</h2>
+<h3 align="left">Programming Languages, Software & Tools.</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -25,7 +24,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -51,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
@@ -73,7 +72,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -83,6 +82,6 @@
 
 ###
 
-<h4 align="center">Let's Connect and Build Something Amazing together.</h4>
+<h4 align="left">Let's Connect and Build Something Amazing together.</h4>
 
 ###
